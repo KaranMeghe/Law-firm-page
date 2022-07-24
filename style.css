@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;700&family=Orbitron:wght@700&family=Sansita+Swashed:wght@300&display=swap");
+
+/* Global reset */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #000000;
+}
+.container {
+  background-color: #393131;
+  height: 50vh;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+.logo {
+  height: 70%;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list {
+  display: flex;
+}
+
+.list-item:nth-of-type(1) {
+  color: #fff;
+  font-weight: 700;
+}
+
+.list li {
+  padding: 0 20px;
+  list-style: none;
+  color: #ccc;
+  font-size: 20px;
+}
+
+.button {
+  margin-left: 20px;
+  font-size: 21px;
+  padding: 10px 30px;
+  background-color: transparent;
+  border-radius: 12px;
+  color: #f7cd2e;
+  border: 1px solid #f7cd2e;
+  font-weight: 400;
+}
+
+.hero {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 40px auto;
+}
+
+.heading-box {
+  width: 50%;
+}
+.hero-heading {
+  font-size: 80px;
+  margin: 0 auto 0 19%;
+  width: 78%;
+  color: #fff;
+}
+
+.text-box {
+  width: 50%;
+}
+.hero-text {
+  font-size: 24px;
+  width: 63%;
+  margin: 0 auto;
+  color: #ccc;
+}
+
+.image-box {
+  background-image: url(./assets/download.jpeg);
+  height: 45vh;
+  background-size: cover;
+  background-position: center;
+}
