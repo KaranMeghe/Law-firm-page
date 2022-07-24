@@ -3,7 +3,7 @@
 By Karan Meghe
 
 Here's the live Deployed Website
-Link to the Project 3 [Netlify link](law-firm11.netlify.app)
+Link to the Project 3 [Netlify link](https://law-firm11.netlify.app/)
 
 <img width="1438" alt="Screenshot 2022-07-24 at 10 44 39 PM" src="https://user-images.githubusercontent.com/78386171/180661557-9b5331f1-7005-4953-8202-b04a5c47a9e0.png">
 
