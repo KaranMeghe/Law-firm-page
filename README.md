@@ -8,7 +8,7 @@ Link to the Project 3 [Netlify link](law-firm11.netlify.app)
 <img width="1438" alt="Screenshot 2022-07-24 at 10 44 39 PM" src="https://user-images.githubusercontent.com/78386171/180661557-9b5331f1-7005-4953-8202-b04a5c47a9e0.png">
 
 What i learned from this project?
-- This project was very good learning experince for me.
+- This project was very good learning experience for me.
 - I learned how to proper use width property.
 - I learned about flexbox
 
